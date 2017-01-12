@@ -1,0 +1,35 @@
+1q)what are datatypes in java script
+ans)There are five types of primitive data types in java script
+Data Type	Description
+String	     represents sequence of characters e.g. "hello"
+Number	     srepresents numeric values e.g. 100
+Boolean	     represents boolean value either false or true
+Undefined   represents undefined value
+Null	    represents null i.e. no value at all
+JavaScript non-primitive data types:
+
+The non-primitive data types are as follows:
+
+Data Type	Description
+Object	   represents instance through which we can access members
+Array	   represents group of similar values
+RegExp	   represents regular expression 
+2Q) what are the differences between java and java script especially in terms of variables?
+ans)Java is an Object Oriented Programming (OOP) language created by James Gosling of Sun Microsystems. JavaScript is a scripting language that was created by the fine
+ people at Netscape and was originally known as LiveScript. JavaScript is a (very) distant cousin of Java in that it is also an OOP language.
+Key differences between Java and JavaScript:
+Java is an OOP programming language while Java Script is an OOP scripting language.
+Java creates applications that run in a virtual machine or browser while JavaScript code is run on a browser only.
+Java code needs to be compiled while JavaScript code are all in text.
+They require different plug-ins.
+ 
+3q).why do we use java script in webpages?
+ans)JavaScript resides inside HTML documents, and can provide levels of interactivity to web pages that are not achievable with simple HTML.
+4Q)how to include java script in webpages?
+ans)In HTML, JavaScript code must be inserted between <script> and </script> tags.
+5Q)where to include javascript into webpages and why?
+ans)Placing scripts in external files has some advantages:
+
+It separates HTML and code
+It makes HTML and JavaScript easier to read and maintain
+Cached JavaScript files can speed up page loads
